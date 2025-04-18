@@ -138,6 +138,10 @@ main {
     transition: transform 0.2s ease, filter 0.2s ease;
 }
 
+.controls #next{
+    transform: rotate(180deg);
+}
+
 .controls img:hover {
     transform: scale(1.15);
     filter: brightness(1.5);
