@@ -1,0 +1,28 @@
+[    
+    {
+        "name":"Fairytale",
+        "path":"Fairytale(128k).mp3",
+        "image":"gojo.jpg",
+        "singer":"Alexander Rybak"
+    },
+    {
+        "name":"Aa Ante Amalapuram",
+        "path":"Aa_Ante_Amalapuram_Full_Video_Song____Aarya_Video_Songs____Allu_Arjun,_Anuradha_Mehta(128k).mp3",
+        "image":"gokuultra.jpg",
+        "singer":"Anuradha Mehta"
+    },
+    {
+        "name":"Balam Pichkari",
+        "path":"Balam_Pichkari__Lyrics____Yeh_Jawaani_Hai_Deewani___PRITAM___Ranbir_Kapoor,_Deepika_Padukone(128k).mp3",
+        "image":"gojo.jpg",
+        "singer":"PRITAM"
+    },
+    {
+        "name":"Enemy",
+        "path":"Enemy_-_Tommee_Profitt,_Sam_Tinnesz___Beacon_Light(128k).mp3",
+        "image":"gojo.jpg",
+        "singer":"Tommee Profitt, Sam Tinnesz"
+    }
+    
+   
+]
