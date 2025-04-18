@@ -2,27 +2,39 @@
     {
         "name":"Fairytale",
         "path":"Fairytale(128k).mp3",
-        "image":"gojo.jpg",
+        "image":"Fairytale.jpeg",
         "singer":"Alexander Rybak"
     },
     {
-        "name":"Aa Ante Amalapuram",
-        "path":"Aa_Ante_Amalapuram_Full_Video_Song____Aarya_Video_Songs____Allu_Arjun,_Anuradha_Mehta(128k).mp3",
-        "image":"gokuultra.jpg",
-        "singer":"Anuradha Mehta"
+        "name":"Fein",
+        "path":"fein.mp3",
+        "image":"fein.jpeg",
+        "singer":"Travis Scoot"
     },
     {
-        "name":"Balam Pichkari",
-        "path":"Balam_Pichkari__Lyrics____Yeh_Jawaani_Hai_Deewani___PRITAM___Ranbir_Kapoor,_Deepika_Padukone(128k).mp3",
-        "image":"gojo.jpg",
-        "singer":"PRITAM"
+        "name":"Pasoori",
+        "path":"pasoori.mp3",
+        "image":"pasoori.jpeg",
+        "singer":"Arijit Singh"
     },
     {
         "name":"Enemy",
         "path":"Enemy_-_Tommee_Profitt,_Sam_Tinnesz___Beacon_Light(128k).mp3",
-        "image":"gojo.jpg",
+        "image":"enemy.jpeg",
         "singer":"Tommee Profitt, Sam Tinnesz"
+    },
+
+    {
+        "name":"Skyfall",
+        "path":"sykfall.mp3",
+        "image":"skyfall.jpeg",
+        "singer":"Tommee Profitt, Sam Tinnesz"
+    },
+    {
+        "name":"Akatsuki",
+        "path":"akatsuki.mp3",
+        "image":"akatsuki.jpeg",
+        "singer":"Obito"
     }
     
-   
 ]
