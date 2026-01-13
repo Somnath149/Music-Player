@@ -14,7 +14,7 @@ let songs=[]
 
 
 
-loadsongsfromjson("songs.json")
+loadsongsfromjson("https://somnath149.github.io/Music-Player/songs.json")
 
 function loadtrack(index){
     track.src=songs[index].path;
@@ -135,4 +135,5 @@ function loadPlaylist() {
         pl.appendChild(songCard);
     });
 }
+
 
